@@ -9,7 +9,7 @@
 *   **Kiến thức nền tảng:** Cấu trúc dữ liệu & Giải thuật, OOP
 
 ### 🚀 Dự án nổi bật
-*   🍗 **[PBL03 - DUT Fried Chicken]((duwc-zit/pbl3](https://github.com/duwc-zit/pbl3)):** Dự án website kinh doanh gà rán áp dụng kiến trúc phần mềm chuẩn.
+*   🍗 **[PBL03 - DUT Fried Chicken](https://github.com/duwc-zit/pbl3):** Dự án website kinh doanh gà rán áp dụng kiến trúc phần mềm chuẩn.
 *   💻 **[PBL02 - Dự án cơ sở lập trình](https://github.com/duwc-zit/PBL02):** (Mô tả ngắn gọn về những gì bạn làm trong PBL2).
 
 
