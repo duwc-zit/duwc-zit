@@ -10,7 +10,7 @@
 
 ### 🚀 Dự án nổi bật
 *   🍗 **[PBL03 - DUT Fried Chicken](https://github.com/duwc-zit/pbl3):** Dự án website kinh doanh gà rán áp dụng kiến trúc phần mềm chuẩn.
-*   💻 **[PBL02 - Dự án cơ sở lập trình](https://github.com/duwc-zit/PBL02):** (Mô tả ngắn gọn về những gì bạn làm trong PBL2).
+*   💻 **[PBL02 - Dự án cơ sở lập trình](https://github.com/duwc-zit/PBL02):** (Phụ trách thiết kế Cơ sở dữ liệu (ERD, chuẩn hóa) và xây dựng bộ Test Cases để đảm bảo tính ổn định của hệ thống).
 
 
 ### 📫 Liên hệ với mình
