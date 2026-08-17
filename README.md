@@ -10,7 +10,7 @@
 
 ### 🚀 Dự án nổi bật
 *   🍗 **[PBL03 - DUT Fried Chicken](https://github.com/duwc-zit/pbl3):** Dự án website kinh doanh gà rán áp dụng kiến trúc phần mềm chuẩn.
-*           Về Cơ sở dữ liệu (Database):
+Về Cơ sở dữ liệu (Database):
 
 Phân tích yêu cầu và thiết kế Sơ đồ thực thể liên kết (ERD) cho hệ thống bán hàng.
 
